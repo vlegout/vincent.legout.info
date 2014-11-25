@@ -1,0 +1,6 @@
+@inproceedings{etr,
+ author = {Legout, Vincent and Jan, Mathieu and Pautet, Laurent},
+ title = {Réduction de la consommation statique des systèmes temps-réel multiprocesseurs},
+ booktitle = {École d’Été Temps Réel 2013 (ETR‘13)},
+ year = {2013},
+}

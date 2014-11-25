@@ -1,0 +1,20 @@
+@inproceedings{ewili,
+ author = {Legout, Vincent and Lemerre, Matthieu},
+ title = {Paravirtualizing Linux in a real-time hypervisor},
+ booktitle = {2nd Embed With Linux Workhop (EWiLi)},
+ year = {2012},
+}
+
+@article{sigbed,
+ author = {Legout, Vincent and Lemerre, Matthieu},
+ title = {Paravirtualizing Linux in a real-time hypervisor},
+ journal = {SIGBED Rev.},
+ issue_date = {June 2012},
+ volume = {9},
+ number = {2},
+ month = jun,
+ year = {2012},
+ pages = {33--37},
+ numpages = {5},
+ publisher = {ACM},
+}

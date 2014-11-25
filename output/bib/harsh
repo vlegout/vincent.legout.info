@@ -1,0 +1,6 @@
+@inproceedings{harsh,
+ author = {Legout, Vincent and Jan, Mathieu and Pautet, Laurent},
+ title = {An off-line multiprocessor real-time scheduling algorithm to reduce static energy consumption},
+ booktitle = {1st Workshop on Highly-Reliable Power-Efficient Embedded Designs (HARSH)},
+ year = {2013},
+}

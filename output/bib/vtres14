@@ -1,0 +1,8 @@
+@inproceedings{burns14,
+ title = {{KairosVM}: Deterministic Introspection for Real-time Virtual Machine Hierarchical Scheduling},
+ author = {Burns, Kevin and Barbalace, Antonio and Legout, Vincent and Ravindran, Binoy},
+ month = {September},
+ year = {2014},
+ booktitle = {2nd International Workshop on Virtualization for Real-Time Embedded Systems},
+ series = {VtRES14},
+}

@@ -1,0 +1,78 @@
+
+body {
+    font-family: sans-serif;
+    padding-bottom: 20px;
+    background: #FFFDF9;
+}
+
+.header {
+    font-size: 1.0em;
+}
+
+#content {
+    margin: 0 auto;
+    max-width: 740px;
+    padding: 0 30px 20px 30px;
+}
+
+#content a, #content a:hover {
+    color: #777;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.0em;
+    border-bottom: solid 5px #A68C50;
+    padding: 20px 0;
+    margin: 20px 0 10px 0;
+}
+
+#title a, #title a:hover {
+    text-decoration: none;
+    color: #777;
+}
+
+h2, h3, h4, h5 {
+    border-bottom: solid 1px #A68C50;
+    margin: 4px 0 4px 0;
+}
+
+h4 {
+    margin-top: 10px;
+    padding-bottom: 3px;
+    font-size: 0.9em;
+}
+
+ul {
+    margin: 0;
+}
+
+#menu li {
+     display: inline;
+     list-style-type: none;
+     margin: 0 20px 0 0;
+}
+
+#menu {
+    padding: 0 0 6px 10px;
+    margin: 0 auto 10px auto;
+    border-bottom: solid 3px #A68C50;
+    font-size: 1.1em;
+}
+
+p {
+    margin: 5px 0;
+    padding: 0;
+}
+
+li {
+    margin: 2px 0;
+}
+
+.bold {
+    font-weight: normal;
+}
+
+/* http://colorschemedesigner.com/#2Z11T3z--cOcO */
+

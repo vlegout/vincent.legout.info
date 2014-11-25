@@ -1,0 +1,6 @@
+@inproceedings{retimics,
+ author = {Legout, Vincent and Jan, Mathieu and Pautet, Laurent},
+ title = {Mixed-Criticality Multiprocessor Real-Time Systems: Energy Consumption vs Deadline Misses},
+ booktitle = {1st workshop on Real-Time Mixed Criticality Systems (ReTiMiCS)},
+ year = {2013},
+}

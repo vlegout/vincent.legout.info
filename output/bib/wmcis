@@ -1,0 +1,9 @@
+@inproceedings{wmcis,
+ author = {Jan, Mathieu and Zaourar, Lilia and Legout, Vincent and Pautet, Laurent},
+ title = {Handling Criticality Mode Change in Time-Triggered Systems through Linear Programming},
+ booktitle = {Workshop on Mixed Criticality for Industrial Systems},
+ year = {2014},
+ month = {june},
+ series = {WMCIS '14},
+ location = {Paris, France},
+}
